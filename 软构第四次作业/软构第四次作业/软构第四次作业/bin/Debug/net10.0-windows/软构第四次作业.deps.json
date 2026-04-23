@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "软构第四次作业/1.0.0": {
+        "runtime": {
+          "软构第四次作业.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "软构第四次作业/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

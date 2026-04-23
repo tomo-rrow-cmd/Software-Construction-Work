@@ -1,0 +1,16 @@
+C:\Users\admin\source\repos\WebExtractor\WebExtractor\bin\Debug\net10.0-windows\WebExtractor.exe
+C:\Users\admin\source\repos\WebExtractor\WebExtractor\bin\Debug\net10.0-windows\WebExtractor.deps.json
+C:\Users\admin\source\repos\WebExtractor\WebExtractor\bin\Debug\net10.0-windows\WebExtractor.runtimeconfig.json
+C:\Users\admin\source\repos\WebExtractor\WebExtractor\bin\Debug\net10.0-windows\WebExtractor.dll
+C:\Users\admin\source\repos\WebExtractor\WebExtractor\bin\Debug\net10.0-windows\WebExtractor.pdb
+C:\Users\admin\source\repos\WebExtractor\WebExtractor\obj\Debug\net10.0-windows\WebExtractor.Form1.resources
+C:\Users\admin\source\repos\WebExtractor\WebExtractor\obj\Debug\net10.0-windows\WebExtractor.csproj.GenerateResource.cache
+C:\Users\admin\source\repos\WebExtractor\WebExtractor\obj\Debug\net10.0-windows\WebExtractor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\source\repos\WebExtractor\WebExtractor\obj\Debug\net10.0-windows\WebExtractor.AssemblyInfoInputs.cache
+C:\Users\admin\source\repos\WebExtractor\WebExtractor\obj\Debug\net10.0-windows\WebExtractor.AssemblyInfo.cs
+C:\Users\admin\source\repos\WebExtractor\WebExtractor\obj\Debug\net10.0-windows\WebExtractor.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\WebExtractor\WebExtractor\obj\Debug\net10.0-windows\WebExtractor.dll
+C:\Users\admin\source\repos\WebExtractor\WebExtractor\obj\Debug\net10.0-windows\refint\WebExtractor.dll
+C:\Users\admin\source\repos\WebExtractor\WebExtractor\obj\Debug\net10.0-windows\WebExtractor.pdb
+C:\Users\admin\source\repos\WebExtractor\WebExtractor\obj\Debug\net10.0-windows\WebExtractor.genruntimeconfig.cache
+C:\Users\admin\source\repos\WebExtractor\WebExtractor\obj\Debug\net10.0-windows\ref\WebExtractor.dll
